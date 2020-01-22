@@ -1,0 +1,23 @@
+* {
+    margin : 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+    transition: all 0.5s ease;
+}
+
+ul li a:active {
+    color: black;
+}
+
+ul li a:hover {
+
+    text-decoration: underline;
+}

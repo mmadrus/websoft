@@ -1,17 +1,25 @@
+S01
+
 This is not the first time that I have used Git, however, previous experiences has been through
 both the built in GitHub client in Intellij as well as the desktop client. It is therefore 
 refreshing to get some experience with git using the command line. It is also the first time that
 I have used GitHub pages, mostly because I did not know it existed and never had the need to use it before.
 It is still a good tool to use for web development by having somewhere to test your website during development
-without having the need to have a custom domain.
+without having the need to have a custom domain. I have not previously used tools such as Markdown or other tools like it.
+
 
 I have done websites before but started very recently (December 2019) by learning it on my spare time.
 I managed to develop a portfolio (www.madrusan.xyz) which is still under development as it is not responsive yet.
 However, I had a previous version that was resposnsive but recently created a new one as the previous did
 not feel professional enough and was made in a haste. Therefore, I have some knowledge and experience with 
 web development but would need to learn a strcutured approach towards it. Which is what I hope I will
-learn during this course.
+learn during this course. During the previous project course, I have also used simpler networking functions in js to
+be able to connect a website to a server. This was done by using both REST API calls with ajax and using WebSockets.
+The website was then connected to a java based web server. Even though I have some experience with web development, I do
+feel that I have only touched the surface of the subject.
 
 TIL
-Getting more comfortable with using the git command line as well as using GitHub pages which seem to be 
-a very useful tool for web development.
+There are not to many new things for me in this section. However, getting more comfortable with using the git command line 
+as well as using GitHub pages which seem to be a very useful tool for web development.
+
+S02

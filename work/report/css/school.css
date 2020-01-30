@@ -68,26 +68,41 @@ nav ul li div {
     margin-bottom: 1%;
 }
 
-article {
-    position: relative;
-    width: 100%;
-}
-
-h1, h2 {
+#sel {
     position: relative;
     width: fit-content;
-    margin: 1% auto;
+    height: fit-content;
+    margin: 2%;
+    margin-left: auto;
+    margin-right: auto;
+}
+select {
+    width: 240px;
+    height: 64px;
+    overflow: hidden;
+    -webkit-appearance: none;
+    appearance: none;
+    border: 2px solid rgb(14, 35, 95);
+    text-align: center;
+    text-align-last: center;
+    background: transparent;
+    -webkit-text-align: center;
+    -webkit-text-align-last: center;
 }
 
-p {
-    width: 60%;
+table {
+    border-collapse: collapse;
+    overflow: hidden;
     margin: auto;
-    line-height: 140%;
+    color: black;
+    width: 70%;
 }
 
-p a {
-    text-decoration: none;
-    color: blue;
+th, td {
+    padding: 1em;
+    background: transparent;
+    border-bottom: 2px solid rgb(14, 35, 95); 
+    text-align: center;
 }
 
 #duck {
@@ -101,7 +116,7 @@ p a {
 }
 
 footer {
-    position: relative;
+    position: absolute;
     bottom: 0;
     width: 100%;
     height: 2.5rem;

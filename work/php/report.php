@@ -9,45 +9,7 @@
 </head>
 
 <body onload="setInterval(duck, 1000)">
-    <nav>
-        <ul>
-            <li>
-                    <div></div>
-            </li>
-            <li>
-                <a href="me.html">Me</a>
-            </li>
-            <li>
-                <div></div>
-            </li>
-            <li>
-                <a href="report.html">Report</a>
-            </li>
-            <li>
-                <div></div>
-            </li>
-            <li>
-                <a href="school.html">Schools</a>
-            </li>
-            <li>
-                <div></div>
-            </li>
-            <li>
-                <a href="flag.html">Flags</a>
-            </li>
-            <li>
-                <div></div>
-            </li>
-            <li>
-                <a href="about.html">About</a>
-            </li>
-            <li>
-                    <div></div>
-            </li>
-        </ul>
-    </nav>
-    
-    <div id="border"></div>
+<?php include 'view/header.php';?>
 
 
 
@@ -371,9 +333,7 @@
 
         <div id="duck"></div>
 
-        <footer>
-            <p>Matteo Madrusan (c) 2020</p>
-        </footer>
+        <?php include 'view/footer.php';?>
 
     </article>
 

@@ -1,0 +1,10 @@
+/Users/madrusan/VSC/School/websoft/work/s07/console/bin/Debug/netcoreapp3.1/bank.deps.json
+/Users/madrusan/VSC/School/websoft/work/s07/console/bin/Debug/netcoreapp3.1/bank.runtimeconfig.json
+/Users/madrusan/VSC/School/websoft/work/s07/console/bin/Debug/netcoreapp3.1/bank.runtimeconfig.dev.json
+/Users/madrusan/VSC/School/websoft/work/s07/console/bin/Debug/netcoreapp3.1/bank.dll
+/Users/madrusan/VSC/School/websoft/work/s07/console/bin/Debug/netcoreapp3.1/bank.pdb
+/Users/madrusan/VSC/School/websoft/work/s07/console/obj/Debug/netcoreapp3.1/bank.csprojAssemblyReference.cache
+/Users/madrusan/VSC/School/websoft/work/s07/console/obj/Debug/netcoreapp3.1/bank.AssemblyInfoInputs.cache
+/Users/madrusan/VSC/School/websoft/work/s07/console/obj/Debug/netcoreapp3.1/bank.AssemblyInfo.cs
+/Users/madrusan/VSC/School/websoft/work/s07/console/obj/Debug/netcoreapp3.1/bank.dll
+/Users/madrusan/VSC/School/websoft/work/s07/console/obj/Debug/netcoreapp3.1/bank.pdb

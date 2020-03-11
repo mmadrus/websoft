@@ -1,0 +1,51 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<div style="display: inline-flex; width: 100%;">
+    <ul id="account-list" style="display: inline-flex; list-style: none; height: 75%; flex-direction: column; position: relative;
+        margin-top: 5%; text-align: left;">
+        
+    </ul>
+    
+    <table id="table" style="position: relative; width: 60%; margin-top: 5%; margin-left: auto;">
+        <tr>
+            <th>
+                Owner
+            </th>
+            <th>
+                Number
+            </th>
+            <th>
+                Label
+            </th>
+            <th>
+                Balance
+            </th>
+        </tr>
+    </table>
+</div>
+
+<script type="text/javascript">
+
+function r(f){/in/.test(document.readyState)?setTimeout('r('+f+')',9):f()}
+
+r(function(){
+
+    $.ajax({
+        cache: false,
+        url: 'api/accounts',
+        type: 'GET',
+        success: function (result) {
+            createTable(result);
+        },
+        error: function (result) {
+            alert('Item not removed.');
+        }
+    });
+});
+</script>
+<script src="js/table.js" ></script>

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/madrusan/VSC/School/websoft/work/s07/console/bank.cs/bank.cs.csproj": {}
+  },
+  "projects": {
+    "/Users/madrusan/VSC/School/websoft/work/s07/console/bank.cs/bank.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madrusan/VSC/School/websoft/work/s07/console/bank.cs/bank.cs.csproj",
+        "projectName": "bank.cs",
+        "projectPath": "/Users/madrusan/VSC/School/websoft/work/s07/console/bank.cs/bank.cs.csproj",
+        "packagesPath": "/Users/madrusan/.nuget/packages/",
+        "outputPath": "/Users/madrusan/VSC/School/websoft/work/s07/console/bank.cs/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/madrusan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

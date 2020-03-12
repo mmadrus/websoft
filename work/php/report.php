@@ -22,64 +22,46 @@
         <section>
         <h2>S01</h2>
             <p>
-                This is not the first time that I have used Git, however, previous experiences has been through
-                both the built in GitHub client in Intellij as well as the desktop client. It is therefore 
-                refreshing to get some experience with git using the command line. It is also the first time that
-                I have used GitHub pages, mostly because I did not know it existed and never had the need to use it before.
-                It is still a good tool to use for web development by having somewhere to test your website during development
-                without having the need to have a custom domain. I have not previously used tools such as Markdown or other tools like it.
+                This is not the first time that I have used Git, however, previous experiences has been through both the built in GitHub client in Intellij as well as the desktop client. It is therefore 
+                refreshing to get some experience with git using the command line. It is also the first time that I have used GitHub pages, mostly because I did not know it existed and never had the need to use it before. It is still a good tool to use for web development by having somewhere to test your website during development without having the need to have a custom domain. I have not previously used tools such as Markdown or other tools like it.
+                
             </p>
             <br>
             <p>
-                I have done websites before but started very recently (December 2019) by learning it on my spare time.
-                I managed to develop a portfolio (<a href="http://www.madrusan.xyz">www.madrusan.xyz</a>) which is still under development as it is not responsive yet.
-                However, I had a previous version that was resposnsive but recently created a new one as the previous did
-                not feel professional enough and was made in a haste. Therefore, I have some knowledge and experience with 
-                web development but would need to learn a strcutured approach towards it. Which is what I hope I will
-                learn during this course. During the previous project course, I have also used simpler networking functions in js to
-                be able to connect a website to a server. This was done by using both REST API calls with ajax and using WebSockets.
-                The website was then connected to a java based web server. Even though I have some experience with web development, I do
-                feel that I have only touched the surface of the subject.
+                I have done websites before but started very recently (December 2019) by learning it on my spare time. I managed to develop a portfolio (<a href="http://www.madrusan.xyz">www.madrusan.xyz</a>) which is still under development as it is not responsive yet. However, I had a previous version that was responsive but recently created a new one as the previous did
+                not feel professional enough and was made in a haste. Therefore, I have some knowledge and experience with web development but would need to learn a structured approach towards it. Which is what I hope I will learn during this course. During the previous project course, I have also used simpler networking functions in js to be able to connect a website to a server. This was done by using both REST API calls with ajax and using WebSockets.
+                The website was then connected to a java based web server. Even though I have some experience with web development, I do feel that I have only touched the surface of the subject.
             </p>
             <br>
             <p>
                 TIL
                 <br>
-                There are not to many new things for me in this section. However, getting more comfortable with using the git command line 
-                as well as using GitHub pages which seem to be a very useful tool for web development.
+                There are not to many new things for me in this section. However, getting more comfortable with using the git command line as well as using GitHub pages which seem to be a very useful tool for web development.
             </p>
         </section>
 
         <section>
         <h2>S02</h2>
         <p>
-            I have previously had some experience with HTML, CSS & JavaScript. However, most of the JS had been done together
-            with jQuery. Therefore, I do not have used JS with application logic but for manipulating the front-end of the web
-            application. So most of my web development expreience have been with HTML and CSS.
+            I have previously had some experience with HTML, CSS & JavaScript. However, most of the JS had been done together with jQuery. Therefore, I do not have used JS with application logic but for manipulating the front-end of the web application. So most of my web development experience have been with HTML and CSS.
         </p>
         <br>
         <p>
-            HTML, CSS and JS plays different parts in web development. HTML creates the structure of the a page. By creating 
-            different elements, a developer is able to strucutre how the visuals should be set up. CSS applies visual style to the
-            HTML elements. JS creates the logic behind the HTML, this is to make the website more dynamic. JS also makes the 
-            site more interactive for the user. Furthermore, JS takes care of all logic behind the visual that the users can see.
-            This means that JS allows the developer to do a lot of logic 'behind the curtains' which makes a web application
-            more dynamic. All together, HTML sets the scene, CSS applies visuals to the scene which JS handles everything behind
+            HTML, CSS and JS plays different parts in web development. HTML creates the structure of the a page. By creating different elements, a developer is able to structure how the visuals should be set up. CSS applies visual style to the HTML elements. JS creates the logic behind the HTML, this is to make the website more dynamic. JS also makes the 
+            site more interactive for the user. Furthermore, JS takes care of all logic behind the visual that the users can see. This means that JS allows the developer to do a lot of logic 'behind the curtains' which makes a web application more dynamic. All together, HTML sets the scene, CSS applies visuals to the scene which JS handles everything behind
             the curtains.
         </p>
         <br>
         <p>
-            The browser and the web server creates a client-server structure. In which the client (browser) fetches data or sends data
-            to the server which handles the information. In this way, the server works as a back-end for the browser. HTTP (Hypertext transfer
-            protocol) creates a uniform way in which all broswers and alla web server are able to transfer data between each other 
+            The browser and the web server creates a client-server structure. In which the client (browser) fetches data or sends data to the server which handles the information. In this way, the server works as a back-end for the browser. HTTP (Hypertext transfer
+            protocol) creates a uniform way in which all browsers and alla web server are able to transfer data between each other 
             in the same way.
         </p>
         <br>
         <p>
             TIL
             <br>
-            Not a lot of new things have been learned during this section of the course. As I have had previous knowledge of HTML, CSS and
-            JS. We have also learned of the client-server structure and how network communication works. However, it is always good
+            Not a lot of new things have been learned during this section of the course. As I have had previous knowledge of HTML, CSS and JS. We have also learned of the client-server structure and how network communication works. However, it is always good
             to refresh previous knowledge.
         </p>
         </section>
@@ -87,241 +69,173 @@
         <section>
         <h2>S03</h2>
         <p>
-            I have previously had some experience with JavaScript, however, it has often been combined with jQuery so manipulate 
-                HTML elements depening on different actions. JS is a little different from languages previously learned in the programme.
-                As Java is strictly object-oriented, JS has other properties which gives the language its unique features. As JS operates 
-                with objects, it does not enforce the developer to follow object-oriented priciples, such as Java. Therefore, JS is comparable
-                with other languages such as C# and Java as they all work with objects. Hence, JS can be related to other popular languages
-                as it works with objects while it does not enforce OOP principles as other languages might do.
+            I have previously had some experience with JavaScript, however, it has often been combined with jQuery so manipulate HTML elements depending on different actions. JS is a little different from languages previously learned in the programme. As Java is strictly object-oriented, JS has other properties which gives the language its unique features. As JS operates with objects, it does not enforce the developer to follow object-oriented principles, such as Java. Therefore, JS is comparable with other languages such as C# and Java as they all work with objects. Hence, JS can be related to other popular languages as it works with objects while it does not enforce OOP principles as other languages might do.
         </p>
         <br>
         <p>
-                I was aiming for grade 5 in this assignment. Firstly, I looked at the different requirements for each grade. I then decided 
-                to work on the school part, then the flag and lastly the moving object. As I knew that I was aiming for grade 5,
-                I immediately started to work on a dynamic HTML table. This was done by creating an empty table and dynamically fill it
-                from the JSON file of the choosen school district code. The flags was easily implemented as each flag was put in its own
-                div and each color of the flag was a div of itself. In the end, each flag consisted of a div which had 3 divs. Lastly, the
-                moving object was implemented by adding an element to each HTML. This element was given a random X and Y position in which
-                it fades away, move to given position and then fades in at the new position. Overall, I'm satisfied with the code and 
-                feel that I have reached the grade I aimed for.
+            I was aiming for grade 5 in this assignment. Firstly, I looked at the different requirements for each grade. I then decided to work on the school part, then the flag and lastly the moving object. As I knew that I was aiming for grade 5, I immediately started to work on a dynamic HTML table. This was done by creating an empty table and dynamically fill it
+            from the JSON file of the chosen school district code. The flags was easily implemented as each flag was put in its own div and each color of the flag was a div of itself. In the end, each flag consisted of a div which had 3 divs. Lastly, the moving object was implemented by adding an element to each HTML. This element was given a random X and Y position in which it fades away, move to given position and then fades in at the new position. Overall, I'm satisfied with the code and feel that I have reached the grade I aimed for.
         </p>
         <br>
         <p>
-                TIL
-                <br>
-                I've learned new ways to use JS to dynamically updated or create elements as well as manipulating it in different ways.
-                I've also learned that JS can be used in multiple ways to fit the need of the application which makes it a very versatile
-                language.
+            TIL
+            <br>
+            I've learned new ways to use JS to dynamically updated or create elements as well as manipulating it in different ways. I've also learned that JS can be used in multiple ways to fit the need of the application which makes it a very versatile language.
         </p>
         </section>
 
         <section>
         <h2>S04</h2>
         <p>
-                I have not previously worked with node. However, I have used node/npm to install frameworks or such for other projects. 
-                It was therefore a new experience to actually work with it in a programming way. Using together with JS and Express has been
-                challenging. Mostly because it is the first time working in such a structure as the frameworks creates. It is a client-server 
-                type of workflow, however, the middleware and the routing is new for me. It has been one of the more challenging tasks during 
+                I have not previously worked with node. However, I have used node/npm to install frameworks or such for other projects. It was therefore a new experience to actually work with it in a programming way. Using together with JS and Express has been
+                challenging. Mostly because it is the first time working in such a structure as the frameworks creates. It is a client-server type of workflow, however, the middleware and the routing is new for me. It has been one of the more challenging tasks during 
                 the programme. 
             </p>
             <br>
             <p>
-                I started by looking at the youtube videos of the lecture and the assignment. After that, I read through the provided 
-                documentation. However, it took some time before I understood how it all is connected. I did not really have a plan to start with 
-                as I did not quite understand how to structure the code. When I understood that, it was easy to set up a plan and follow it.
-                The plan worked when I finally could grasp what was asked for in the assignment and the watching the lectures a couple of times.
-                As the I had a hard time to grasp the assignment I aimed for grade 3 as I felt that I did not want to spent too much time on 
-                the assignment as there are multiple things to focus on in both this course and other courses.
+                    I started by looking at the youtube videos of the lecture and the assignment. After that, I read through the provided documentation. However, it took some time before I understood how it all is connected. I did not really have a plan to start with as I did not quite understand how to structure the code. When I understood that, it was easy to set up a plan and follow it. The plan worked when I finally could grasp what was asked for in the assignment and the watching the lectures a couple of times. As the I had a hard time to grasp the assignment I aimed for grade 3 as I felt that I did not want to spent too much time on the assignment as there are multiple things to focus on in both this course and other courses.
+
             </p>
             <br>
             <p>
                 TIL
                 <br>
-                How to structure a simple node and express application. It is seem close to a MVC workflow and when having a better understanding,
-                it could be used to structure more complex applications in a simpler way. Modules are very useful too when creating parts of a
-                application as it can make it more dynamic without adding too much code to a single page.
+                How to structure a simple node and express application. It is seem close to a MVC workflow and when having a better understanding, it could be used to structure more complex applications in a simpler way. Modules are very useful tool when creating parts of an application as it can make it more dynamic without adding too much code to a single page.
             </p>
         </section>
 
         <section>
         <h2>S05</h2>
         <p>
-                My opinion on PHP is neutral as it is the first time using it. However, it is easy to understand the basics of it.
-                It seem very usefull when doing smaller functions for a web application, I have also seen it being used for simpler
-                forms used on web sites when sending an e-mail or similar smaller tasks. Even though it is useful, I do not see PHP 
-                being used when creating larger projects. As PHP is used as controller for the views, more complex web applications
-                would need another language and process to make those applications as efficient as possible. Some of those are, for example,
-                JS with Node JS and C# with MS MVC. These seem more appropriate for larger projects. Therefore, PHP is more similar to JS and C#
-                in its functionality and closer to JS in syntax.
+                My opinion on PHP is neutral as it is the first time using it. However, it is easy to understand the basics of it. It seem very useful when doing smaller functions for a web application, I have also seen it being used for simpler forms used on websites when sending an e-mail or similar smaller tasks. Even though it is useful, I do not see PHP 
+                being used when creating larger projects. As PHP is used as controller for the views, more complex web applications would need another language and process to make those applications as efficient as possible. Some of those are, for example, JS with Node JS and C# with MS MVC. These seem more appropriate for larger projects. Therefore, PHP is more similar to JS and C# in its functionality and closer to JS in syntax.
+                
             </p>
             <br>
             <p>
-                Firstly, I looked at the lectures and the assignment video. I was first aiming for grade 5, however, because of other circumstances
-                I settled at grade 3. I quickly understood that PHP would work as a controller and setting the footer/header as a seperate
-                file would work as a template for the other pages. I did however struggle with the instructions as I did not quite understand 
-                them in the beginning but after rewatching the lectures, they became more apperant.
+                    Firstly, I looked at the lectures and the assignment video. I was first aiming for grade 5, however, because of other circumstances I settled at grade 3. I quickly understood that PHP would work as a controller and setting the footer/header as a separate file would work as a template for the other pages. I did however struggle with the instructions as I did not quite understand them in the beginning but after rewatching the lectures, they became more apparent.
+
             </p>
             <br>
             <p>
                 TIL
                 <br>
-                I learned the basic syntax of PHP. I also learned the functionality of the language and why it is used. However, 
-                PHP is a bit more complicated than I thought and that the language has a bigger threshold than I thought. Either way, 
-                the assignment was little challenging but was a good experience.
+                I learned the basic syntax of PHP. I also learned the functionality of the language and why it is used. However, PHP is a bit more complicated than I thought and that the language has a bigger threshold than I thought. Either way, the assignment was little challenging but was a good experience.
+
             </p>
         </section>
 
         <section>
         <h2>S06</h2>
             <p>
-                Looking over which programming languages that are used the most. JS, Python and Java are usually in the top 3 and it seem 
-                that these three will stay on top for a while. As a lot of programming languages has become popular and slowly disappeared
-                from the programming scene, it seem as the market of programming languages as settled. This is good for programmers as
-                having too many languages to choose from with different frameworks can complicate the workprocess for programmers. 
-                Therefore, it is good that a lot of companies use the same type of languages which allows programmers to learn 
-                them more in depth depending on what career path they are taking. This allows for a more fluent work market as programmers can
-                change jobs more often but more importantly, the quality of applications increase. The longer a language stays 
-                popular, the better will the quality of the language and applications be because the programmers have more time to master it and
-                the language itself will have more time to be supported and developed. Therefore, I think that the popular programming languages
-                at this moment will stay popular but over time will change to another version of itself that is more efficent and more powerfull.
+                    Looking over which programming languages that are used the most. JS, Python and Java are usually in the top 3 and it seem that these three will stay on top for a while. As a lot of programming languages has become popular and slowly disappeared from the programming scene, it seem as the market of programming languages as settled. This is good for programmers as having too many languages to choose from with different frameworks can complicate the work process for programmers. Therefore, it is good that a lot of companies use the same type of languages which allows programmers to learn 
+                    them more in depth depending on what career path they are taking. This allows for a more fluent work market as programmers can change jobs more often but more importantly, the quality of applications increase. The longer a language stays popular, the better will the quality of the language and applications be because the programmers have more time to master it and the language itself will have more time to be supported and developed. Therefore, I think that the popular programming languages at this moment will stay popular but over time will change to another version of itself that is more efficient and more powerful.
+                    
             </p>
             <br>
             <p>
-                My personal choice of programming languages will depened on what is supported and developed but as well as what the employeer
-                wants me to use. This is the major reasoning behind choosing programming languages. However, some languages will still be of 
-                interest depending on what projects I have on my sparetime.
+                    My personal choice of programming languages will depend on what is supported and developed but as well as what the employer wants me to use. This is the major reasoning behind choosing programming languages. However, some languages will still be of 
+                    interest depending on what projects I have on my spare time.
             </p>
             <br>
             <p>
-                I choose to compare the three previously mentioned programming languages and see which ones has the most searches and in 
-                what context it is searched in. Currently, of all the three languages worldwide, Java has the most overall searches. However,
-                Java is searched in other contexts other than programming, in this case both are within the context of entertainmet.
-                The top search including Java is a new Indian movie called Mar Java. The third and fifth most searched Java term was 
-                related to Minecraft Java edition. However, the second and third is programming related as the terms are Java 13 and 
-                (some programming problem) followed by in Java. For Python, the search term are more related to programming problems and basic
-                tutorials in form of w3schools. One of the Python search terms are payton which is properly because a lot of people misspell 
-                the word. The search terms for both Python and Java does have terms related to programming problems. For JS however, it is a
-                different story. Even though it is programming related, the search terms related to JS are all for different frameworks but not
-                the most used ones such as React and Vue, but for smaller frameworks such as Nuxt JS and Svelte JS. 
+                    I choose to compare the three previously mentioned programming languages and see which ones has the most searches and in what context it is searched in. Currently, of all the three languages worldwide, Java has the most overall searches. However,
+                    Java is searched in other contexts other than programming, in this case both are within the context of entertainment. The top search including Java is a new Indian movie called Mar Java. The third and fifth most searched Java term was related to Minecraft Java edition. However, the second and third is programming related as the terms are Java 13 and 
+                    (some programming problem) followed by in Java. For Python, the search term are more related to programming problems and basic tutorials in form of w3schools. One of the Python search terms are payton which is properly because a lot of people misspell 
+                    the word. The search terms for both Python and Java does have terms related to programming problems. For JS however, it is a different story. Even though it is programming related, the search terms related to JS are all for different frameworks but not the most used ones such as React and Vue, but for smaller frameworks such as Nuxt JS and Svelte JS. 
+                    
             </p>
             <br>
             <p>
-                It would be hard to tell my employer to change some techniques as you often start a job with an already established tech stack.
-                However, I would recommend web development employers to use a NoSQL database instead of a SQL database as it is easier to 
-                set up a scalable database with pointers.
+                    It would be hard to tell my employer to change some techniques as you often start a job with an already established tech stack. However, I would recommend web development employers to use a NoSQL database instead of a SQL database as it is easier to 
+                    set up a scalable database with pointers.
             </p>
             <br>
             <p>
                 TIL
                 <br>
-                When researching for popular programming languages, I got suprised by some of the languages on the lists. I did not know
-                that GO was such a popular language as well as SQL being counted as a language at all as I have only used it in the context
-                of SQL queries. 
+                When researching for popular programming languages, I got surprised by some of the languages on the lists. I did not know that GO was such a popular language as well as SQL being counted as a language at all as I have only used it in the context of SQL queries. 
+
             </p>
         </section>
 
         <section>
         <h2>S07</h2>
         <p>
-            .NET is a developer platform developed by Microsoft to allow developers to create a large array of applications based on the
-            structure. With .NET, the developers are able to create web apps, mobile apps, desktop apps and so on. It is compatibale with
-            a couple of languages but the most common one is C#. C# is an objective oriented programming language that was also 
-            developed by Microsoft and is very similar to Java in its syntax. The .NET platform includes multiple libraries that 
-            could be used for different puropses. Such as ASP.NET for web applications and Xamarin for mobile applications. ASP.NET is an
-            extension of the .NET platform to create a common place for structuring web apps. This includes web-page templating with Razor,
-            which allows the developer to create templates for the visual pages by using C#. The extension also adds different design patterns,
-            such as the Model-View-Controller pattern (MVC) in which the views can be templated with C# and completed with HTML, CSS and JS.
-            While the models and controllers are made up with C#, were the controllers creates business logic for the app.
+                .NET is a developer platform developed by Microsoft to allow developers to create a large array of applications based on the structure. With .NET, the developers are able to create web apps, mobile apps, desktop apps and so on. It is compatible with a couple of languages but the most common one is C#. C# is an objective oriented programming language that was also developed by Microsoft and is very similar to Java in its syntax. The .NET platform includes multiple libraries that could be used for different purposes. Such as ASP.NET for web applications and Xamarin for mobile applications. ASP.NET is an extension of the .NET platform to create a common place for structuring web apps. This includes web-page templating with Razor, which allows the developer to create templates for the visual pages by using C#. The extension also adds different design patterns,
+                such as the Model-View-Controller pattern (MVC) in which the views can be templated with C# and completed with HTML, CSS and JS. While the models and controllers are made up with C#, were the controllers creates business logic for the app.
+                
         </p>
         <br>
         <p>
-            The .NET platform can be compared with the likes of Node JS, Express and front-end frameworks such as React JS. The templating 
-            helps the developer to create modules which can be used for front-end pages similar to React JS, however, it is not unusual
-            that both of these are used together. Node JS and Express are similar to the back-end part of the dotnet platform, were the 
-            controllers are handle different API calls from the front-end and .NET runs the application.
+                The .NET platform can be compared with the likes of Node JS, Express and front-end frameworks such as React JS. The templating helps the developer to create modules which can be used for front-end pages similar to React JS, however, it is not unusual
+                that both of these are used together. Node JS and Express are similar to the back-end part of the dotnet platform, were the controllers are handle different API calls from the front-end and .NET runs the application.
+                
         </p>
         <br>
         <p>
-            This exercise was easy to understand and not too hard to do. I aimed for grade 3 as I did not have more time to spend on it 
-            because of other courses as well as work.
+                This exercise was easy to understand and not too hard to do. I aimed for grade 3 as I did not have more time to spend on it because of other courses as well as work.
+
         </p>
         <br>
         <p>
             TIL
             <br>
-            I did not learn anything new during this part of the course as I have done a similar course previously that thought OOP with
-            C# and .NET. As well as my workplace works with these techniques.
+            I did not learn anything new during this part of the course as I have done a similar course previously that thought OOP with C# and .NET. As well as my workplace works with these techniques.
+
         </p>
         </section>
 
         <section>
         <h2>S08</h2>
         <p>
-            For this assignment, I have choosen <a href="../youtube.audit.html">Youtube</a>, <a href="../reddit-audit.html">Reddit</a> and <a href="../aplice-audit.html">Splice</a> to analyze. 
-            The reasoning for this is that those are the three
-            websites I use the most and therefore, it feels logical to test the performance of those sites. All of the websites showed poor
-            performance, with Youtube having the worst and Splice having the best. This comes as a suprise as all the has a lot of daily traffic,
+            For this assignment, I have chosen <a href="../youtube.audit.html">Youtube</a>, <a href="../reddit-audit.html">Reddit</a> and <a href="../aplice-audit.html">Splice</a> to analyze. The reasoning for this is that those are the three
+            websites I use the most and therefore, it feels logical to test the performance of those sites. All of the websites showed poor performance, with Youtube having the worst and Splice having the best. This comes as a surprise as all the has a lot of daily traffic,
             even though Splice does not have the same amount of traffic as the other two websites, it does have its fair share as it is one
-            of the main platforms to download stems for music production. This might also be the reason for Youtube having the worst one.
-            It is one of the most used social platforms around the world and it has to load a lot more than data than Splice and Reddit.
-            Reddit does also generate a lot of data, however, it does rely on websites such as Youtube and Imgur to host pictures and videos.
-            Both Splice and Youtbe scored well on accessabilty while Reddit score was worse. However, Youtube as well as Reddit had issues
-            with ARIA. While Reddit did not have some elements adapted to ARIA, Youtube did, but it did still come across as an accessabilty
-            issue through Lighthouse. Reddit had the best practices while the other two websites performed worse. However, they all had one 
-            issue in common and that was linking to cross-origin destinations. Most of these are links to social media platforms such as Twitter and 
-            Facebook, but Youtube had a issue with leaving the link target with blank. Both Splice and Youtube also displayed images with 
-            the wrong aspect ratio. All three websites scored well on the search enginge optimization part of the audit.
+            of the main platforms to download stems for music production. This might also be the reason for Youtube having the worst one. It is one of the most used social platforms around the world and it has to load a lot more than data than Splice and Reddit.
+            Reddit does also generate a lot of data, however, it does rely on websites such as Youtube and Imgur to host pictures and videos. Both Splice and Youtbe scored well on accessibility while Reddit score was worse. However, Youtube as well as Reddit had issues
+            with ARIA. While Reddit did not have some elements adapted to ARIA, Youtube did, but it did still come across as an accessibility issue through Lighthouse. Reddit had the best practices while the other two websites performed worse. However, they all had one 
+            issue in common and that was linking to cross-origin destinations. Most of these are links to social media platforms such as Twitter and Facebook, but Youtube had a issue with leaving the link target with blank. Both Splice and Youtube also displayed images with 
+            the wrong aspect ratio. All three websites scored well on the search engine optimization part of the audit.
         </p>
         <br>
         <p>
-            I was suprised by how poorly the websites scored on the performance test while they are very popular websites, mostly because
-            one assumes that such frequently used websites should have excelent overall performance. Lighthouse was a very fun and easy
-            tool to use as it was fast and displayed the information in a very simple way. The websites has different ways to improve their
-            performances, however, they all suffer from unsued CSS files which would marginally improve the performance. They also 
-            suffer from offscreen images which slows down the websites by a lot, most on Youtube as it is the largest one. Therefore,
-            it would help the sites to not use images that are not used on the screen at the time of showing.
+                I was surprised by how poorly the websites scored on the performance test while they are very popular websites, mostly because one assumes that such frequently used websites should have excellent overall performance. Lighthouse was a very fun and easy
+                tool to use as it was fast and displayed the information in a very simple way. The websites has different ways to improve their performances, however, they all suffer from unused CSS files which would marginally improve the performance. They also 
+                suffer from offscreen images which slows down the websites by a lot, most on Youtube as it is the largest one. Therefore, it would help the sites to not use images that are not used on the screen at the time of showing.
         </p>
         <br>
         <p>
             TIL
             <br>
-            I learned different ways of analyzing the performance of a website and how small programming issues can result in larger
-            performance issues. It is therefore important to thoroughly check your applications as they can cause issues which can 
-            give the user a negative experience, such as not adapting the website for ARIA.
+            I learned different ways of analyzing the performance of a website and how small programming issues can result in larger performance issues. It is therefore important to thoroughly check your applications as they can cause issues which can give the user a negative experience, such as not adapting the website for ARIA.
+
         </p>
         </section>
 
         <section>
         <h2>S09</h2>
         <p>
-            Security has not been one of the top priorities during the programme as the projects has had more focus on user features.
-            Therefore, all of the projects has had one or more security flaws thar happen to be in the OWASP top ten list. The most common one
-            would be using components with known vulnerabilities as the features that the group wanted to implement has not been available
-            in the original framework of use and therefore used frameworks and APIs that was not secure in the sense of how the data is handled.
-            But the concern for a hacker to try to exploit them was very low. Sensitive Data Exposure has also been very common during the projects.
-            The data in the databases has more often than not been open for everyone that has access to the database because it has not been
-            encrypted in some way. This has also been accompanied with injections as database security has not been a priority.
+                Security has not been one of the top priorities during the programme as the projects has had more focus on user features. Therefore, all of the projects has had one or more security flaws that happen to be in the OWASP top ten list. The most common one
+                would be using components with known vulnerabilities as the features that the group wanted to implement has not been available in the original framework of use and therefore used frameworks and APIs that was not secure in the sense of how the data is handled.
+                But the concern for a hacker to try to exploit them was very low. Sensitive Data Exposure has also been very common during the projects. The data in the databases has more often than not been open for everyone that has access to the database because it has not been
+                encrypted in some way. This has also been accompanied with injections as database security has not been a priority.
         </p>
         <br>
         <p>
-            In the future, more focus will be put into the security of web applications as such problems can have great repercussions 
-            and harm the users badly. As most services such as banks and medical journals are accessable on the internet through
-            web apps, it even more important that such services goes great lengths to secure the data and accessabilty.
+                In the future, more focus will be put into the security of web applications as such problems can have great repercussions and harm the users badly. As most services such as banks and medical journals are accessible on the internet through web apps, it even more important that such services goes great lengths to secure the data and accessibility.
+
         </p>
         <br>
         <p>
-            To avoid all these problems, one should first of all secure the users data by not exposing it to attackers. This could be done
-            by encrypting the data and prevent injections, e.g. using prepared statements in SQL to avoid data dropping from the 
-            database by attackers. Read documentation thouroughly to avoid problems such as broken authentication. Learning the documentation
-            can help developers to avoid multiple threats which will help them to correctly implement the security features.
+                To avoid all these problems, one should first of all secure the users data by not exposing it to attackers. This could be done by encrypting the data and prevent injections, e.g. using prepared statements in SQL to avoid data dropping from the database by attackers. Read documentation thoroughly to avoid problems such as broken authentication. Learning the documentation can help developers to avoid multiple threats which will help them to correctly implement the security features.
+
         </p>
         <br>
         <p>
             TIL
             <br>
-            I learned that the common practices during the programme would result in large problems for users. It is therefore important
-            to read and understand what I am doing as a developer to ensure that users do not come in harm because of my lack of knowledge.
-            The vidoes with the hacker explaining and discussing the threats gave a very good insight on common practices used during
+            I learned that the common practices during the programme would result in large problems for users. It is therefore important to read and understand what I am doing as a developer to ensure that users do not come in harm because of my lack of knowledge. The videos with the hacker explaining and discussing the threats gave a very good insight on common practices used during
             the programme.
         </p>
         </section>

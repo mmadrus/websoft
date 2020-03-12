@@ -1,9 +1,5 @@
-
-
-
 function getAccount (account) {
     
-    console.log(account);
     $.ajax({
         cache: false,
         url: 'api/accounts/' + account + '',
@@ -49,6 +45,17 @@ function createTable (tableData) {
     var keys = [];
     var list = document.getElementById('account-list');
     var listContent = '';
+    var table = document.getElementById('table');
+    var tablecontent = '';
+    table.innerHTML = tablecontent;
+    tablecontent += ("<tr>");
+
+    tablecontent += ('<th style="width: 25%"> Owner </th>');
+    tablecontent += ('<th style="width: 25%"> Number </th>');
+    tablecontent += ('<th style="width: 25%"> Label </th>');
+    tablecontent += ('<th style="width: 25%"> Balance </th>');
+
+    tablecontent += ("</tr>");
 
     for (var i = 0; i < tableData.length; i++) {
 
@@ -62,15 +69,23 @@ function createTable (tableData) {
                 var text = tableData[i][key];
                 var link = "<button class='button' onclick='getAccount(" + number + ")' " +
                     "style='background: transparent; border-radius: 15px; border: 1px solid black; line-height: 20px; '> " + text + "</button>";
-                listContent += ('<li style="position: relative; margin-bottom: 50%">' + link + '</li>');
-
-                
+                listContent += ('<li style="position: relative; margin-bottom: 50%">' + link + '</li>');                
                 
             }
         }
+
+        tablecontent += ("<tr>");
+
+        tablecontent += ('<td style="width: 25%">' + tableData[i].owner + '</td>');
+        tablecontent += ('<td style="width: 25%">' + tableData[i].number + '</td>');
+        tablecontent += ('<td style="width: 25%">' + tableData[i].label + '</td>');
+        tablecontent += ('<td style="width: 25%">' + tableData[i].balance + '</td>');
+
+        tablecontent += ("</tr>");
         
     }
     
+    table.innerHTML += tablecontent;
     list.innerHTML = listContent;
     
 }

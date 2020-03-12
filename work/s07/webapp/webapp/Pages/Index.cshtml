@@ -41,6 +41,7 @@ r(function(){
         type: 'GET',
         success: function (result) {
             createTable(result);
+            console.log(result);
         },
         error: function (result) {
             alert('Item not removed.');

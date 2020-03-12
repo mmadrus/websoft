@@ -30,12 +30,10 @@ function getLottoNum (data) {
 
             if (num === dataSet[i]) {
 
-                console.info(num + ' NOT ' + dataSet[i]);
                 return (getLottoNum(data));
 
             } else {
 
-                console.info(num + ' OK ' + dataSet[i]);
                 exists = false;
             }
         }

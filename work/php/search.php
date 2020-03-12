@@ -1,19 +1,12 @@
 <?php
-/**
- * A page controller
- */
 require "config.php";
 require "connectDB.php";
 
-// Get incoming values
 $search = $_GET["search"] ?? null;
-//var_dump($_GET);
 
 if ($search) {
-    // Connect to the database
     $db = connectDatabase($dsn);
 
-    // Prepare and execute the SQL statement
     $sql = <<<EOD
 SELECT
     *
@@ -28,7 +21,6 @@ EOD;
     $stmt = $db->prepare($sql);
     $stmt->execute([$search]);
 
-    // Get the results as an array with column names as array keys
     $res = $stmt->fetchAll();
 }
 

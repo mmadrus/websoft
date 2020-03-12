@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Presentation of my self in the course XXX</title>
+    <title>Me</title>
     <link rel="stylesheet" href="css/me.css">
     <link rel="icon" href="favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">

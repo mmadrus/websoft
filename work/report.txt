@@ -123,3 +123,27 @@ TIL
 I learned that the common practices during the programme would result in large problems for users. It is therefore important to read and understand what I am doing as a developer to ensure that users do not come in harm because of my lack of knowledge. The videos with the hacker explaining and discussing the threats gave a very good insight on common practices used during
 the programme.
 
+S10
+
+We decided to divide the project into two parts: front-end and back-end. Therefore, we also divided the team into two.
+Two would work on the the front-end and two on the back-end. The team worked well and communicated well with each other.
+We had set up how the information in will be strucutred when sending between the different parts of the application, and 
+decided to communicate through a RESTApi which used json bodies. This allowed us to work independently from each other. This 
+allowed the project to be implemented quickly and efficient. There were not any major problems with the project except 
+towards the end were the back-end had a bit of problem with the database. However, these were quickly fixed and the
+application worked as intended. Even though the group aimed for grade 5 at first, because of other circumstances such as the
+the degree thesis and work, we decided to stick to the grade 3 requirements. Otherwise, the project was reasonable in the amount
+of time and the difficulty of it.
+
+The course overall was very well planned. The material was sufficient and the assignments were at times challenging but still
+manageable. However, the course should focus more on the practical part of web development and not have an exam as it is more
+useful for the students to have more practical experience. The availability of the lectures and material was very good, however,
+the lectures could be more well planned in the sense of how the information was delivered as it sometimes seemed not really 
+well planned. Otherwise, the course as a whole was very good, useful and insightful. I am satisfied with the course and on a 
+grade between 1-10, I would give it a 8. Mostly because the structure of it, the well written and helpful material as well as
+the fun assignments. 
+
+TIL
+I have learned the basic of web development which also has helped to easier understand how they are structured which in the 
+end has helped me on my workplace. Overall, a lot of new techniques has been learned which will be useful in what direction I
+want to take my developing career towards. 
